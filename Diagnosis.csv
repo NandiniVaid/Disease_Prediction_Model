@@ -1,0 +1,9 @@
+ID,Name,Symptom1,Symptom2,Symptom3,Symptom4,Symptom5,Prediction1,Prediction2,Prediction3
+1,Anna,skin_rash,chills,joint_pain,vomiting,fatigue,Dengue,Hepatitis D,Hepatitis E
+2,Ram,chills,fatigue,cough,high_fever,headache,Common Cold,Pneumonia,Common Cold
+3,Rita,vomiting,high_fever,diarrhoea,sweating,nausea,Malaria,Typhoid,Typhoid
+4,Sheena,breathlessness,sweating,vomiting,chest_pain,sweating,Heart attack,Heart attack,Tuberculosis
+5,Shoaib,continuous_sneezing,shivering,chills,watering_from_eyes,skin_rash,Allergy,Fungal infection,Allergy
+6,Raghu,knee_pain,back_pain,neck_pain,mild_fever,constipation,Dimorphic hemmorhoids(piles),Osteoarthristis,Cervical spondylosis
+7,Hina,malaise,chest_pain,congestion,loss_of_smell,mild_fever,Common Cold,Chicken pox,GERD
+8,Faiza,back_pain,dizziness,loss_of_balance,,,Cervical spondylosis,Cervical spondylosis,Cervical spondylosis
